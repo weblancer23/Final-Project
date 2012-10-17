@@ -1,0 +1,94 @@
+/*!
+ * Style v2.1.1 
+ * 
+ *
+ * Designed by Mai_Lin.
+ */
+body
+{
+background-color:#ebebeb;
+overflow-y:scroll;
+}
+#header{
+position:absolute;
+top:1%;
+font-family:Helvetica, Arial, Verdana, sans-serif;
+font-size:20pt;
+font-weight: bold;
+margin:0;
+}
+#banner
+{
+width:100%;
+position:absolute;
+left:0%;
+top: 0%
+}
+/*#wrapper
+{
+position:absolute;
+left:0%;
+top:12%;
+}*/
+#searchArea
+{
+position:absolute;
+left:0%;
+top:12%;
+height:5%;
+width:100%;
+background-color:#000;
+}
+.options
+{
+display:block;
+list style type: disc;
+-webkit-margin-before: 1em;
+-webkit-margin-after: 1em;
+-webkit-margin-start: 0px;
+-webkit-margin-end: 0px;
+-webkit-padding-start: 40px;
+}
+#main-container
+{
+position:absolute;
+top:17%;
+bottom:0;
+left:0;
+right:0;
+height:100%;
+width:100%;
+}
+#history-container
+{
+position:absolute;
+top:0;
+bottom:0;
+left:0;
+right:0;
+width:20%%;
+background:#ebebeb;
+}
+#banner-topnav-fixed
+{
+  position: fixed;
+  top: 0%
+  left: 0%;
+  bottom: 0%;
+}
+.topnav
+{
+  position: absolute;
+  top:100%;
+  left: 0%
+}
+.banner-fixed{
+	top:0;
+}
+.ban{
+	position: fixed;
+  right: 0;
+  left: 0;
+  z-index: 1030;
+  margin-bottom: 0;
+}

@@ -1,0 +1,47 @@
+h2.page-subtitle
+{
+height: 29px;
+background-repeat: no-repeat;
+color:#ff99cc;
+text-shadow:5px 5px #383838;
+}
+div {
+display: block;
+}
+.cl-20 {
+clear: both;
+font-size: 1px;
+height: 20px;
+}
+.shadow-pic {
+background-color: #d960d8;
+padding: 4px;
+border-bottom: 1px solid #C3C3C3;
+border-right: 1px solid #C3C3C3;
+}
+.img-left {
+float: left;
+margin: 0 10px 4px 0;
+}
+.team-title {
+float: left;
+width: 430px;
+}
+.pad10 {
+padding: 10px;
+}
+p {
+display: block;
+-webkit-margin-before: 1em;
+-webkit-margin-after: 1em;
+-webkit-margin-start: 0px;
+-webkit-margin-end: 0px;
+}
+.cl-30{
+clear: both;
+font-size: 1px;
+height: 30px;
+}
+#team {
+	font-family: "Comic Sans MS", cursive, sans-serif;
+}
